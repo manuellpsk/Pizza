@@ -17,9 +17,9 @@
         <form method="post" action="Controlador">
             Tamaño de Pizza:
             <select name="cboxtam">
-                <option value="Personal  1000">Personal 1000</option>
-                <option value="Mediana  2000">Mediana 2000</option>
-                <option value="Grande  3000">Grande 3000</option>
+                <option value="Personal  100">Personal 1000</option>
+                <option value="Mediana  200">Mediana 2000</option>
+                <option value="Grande  300">Grande 3000</option>
             </select>
             <br>
             <br>
